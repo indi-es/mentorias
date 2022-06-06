@@ -13,4 +13,5 @@ Al usar los datos en esta tabla, aceptas nuestroas reglas de comportamiento.
 
 |Nombre|Tema|Calendly|Twitter|Idioma
 |---|---|---|---|---|
-|Alain|Programación, Datos, Monetización/UA para móviles, Servicios|https://calendly.com/alainplusplus/mentoria-consulta|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN
+|Alain|Programación, Datos, Monetización/UA para móviles, Servicios|https://calendly.com/alainplusplus/mentoria-consulta|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN|
+|Squid|Programación, Unity Development, Introducción a la Industria|https://calendly.com/luisquid/indies-mentoria-consulta|[@luisquid](https://twitter.com/luisquid)|ES/EN
