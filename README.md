@@ -16,10 +16,10 @@ Para proponerte como mentor(a), llena este [formulario](https://docs.google.com/
 
 Al usar los datos en esta tabla, aceptas nuestroas reglas de comportamiento.
 
-|Nombre|Tema|Calendly|Twitter|Idioma
-|---|---|---|---|---|
-|Alain|Programación, Datos, Monetización/UA para móviles, Servicios|https://calendly.com/alainplusplus/mentoria-consulta|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN|
-|Squid|Programación, Unity Development, Introducción a la Industria|https://calendly.com/luisquid/indies-mentoria-consulta|[@luisquid](https://twitter.com/luisquid)|ES/EN
+|Nombre (pronombre)|Web|Tema|Calendly|Twitter|Idioma
+|---|---|---|---|---|---|
+|Alain (El/He)||Programación, Datos, Monetización/UA para móviles, Servicios|https://calendly.com/alainplusplus/mentoria-consulta|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN|
+|Squid||Programación, Unity Development, Introducción a la Industria|https://calendly.com/luisquid/indies-mentoria-consulta|[@luisquid](https://twitter.com/luisquid)|ES/EN
 
 ## Audio latam
 Si estás interesado en el sector de producción y creación de audio para videojuegos, te recomendamos la comunidad de [Audio latam.](http://gameaudiolatam.org)
