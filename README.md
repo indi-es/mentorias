@@ -18,8 +18,8 @@ Al usar los datos en esta tabla, aceptas nuestroas reglas de comportamiento.
 
 |Nombre (pronombre)|Web|Tema|Calendly|Twitter|Idioma
 |---|---|---|---|---|---|
-|Alain (El/He)|alainvargas.com|Programación, Datos, Publicidad de juegos móviles, Servicios|https://calendly.com/alainplusplus/mentoria-consulta|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN|
-|Squid||Programación, Unity Development, Introducción a la Industria|https://calendly.com/luisquid/indies-mentoria-consulta|[@luisquid](https://twitter.com/luisquid)|ES/EN
+|Alain (El/He)|alainvargas.com|Programación, Datos, Publicidad de juegos móviles, Servicios|[alainplusplus](https://calendly.com/alainplusplus/mentoria-consulta)|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN|
+|Squid||Programación, Unity Development, Introducción a la Industria|[luisquid](https://calendly.com/luisquid/indies-mentoria-consulta)|[@luisquid](https://twitter.com/luisquid)|ES/EN
 
 ## Audio latam
 Si estás interesado en el sector de producción y creación de audio para videojuegos, te recomendamos la comunidad de [Audio latam.](http://gameaudiolatam.org)
