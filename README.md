@@ -16,13 +16,13 @@ Para proponerte como mentor(a), llena este [formulario](https://docs.google.com/
 
 Al usar los datos en esta tabla, aceptas nuestroas reglas de comportamiento.
 
-|Nombre (pronombre)|Web|Tema|Calendly|Twitter|Idioma
-|---|---|---|---|---|---|
-|Alain (El/He)|alainvargas.com|Programación, Datos, Publicidad de juegos móviles, Servicios|[alainplusplus](https://calendly.com/alainplusplus/mentoria-consulta)|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN|
-|Squid||Programación, Unity Development, Introducción a la Industria|[luisquid](https://calendly.com/luisquid/indies-mentoria-consulta)|[@luisquid](https://twitter.com/luisquid)|ES/EN
+|Nombre (pronombre)|Tema|Calendly|Twitter|Idioma
+|---|---|---|---|---|
+|Alain (El/He)|[Programación, Datos, Publicidad de juegos móviles, Servicios](https://alainvargas.com/)|[alainplusplus](https://calendly.com/alainplusplus/mentoria-consulta)|[@alainplusplus](https://twitter.com/alainplusplus)|ES/EN|
+|Squid|Programación, Unity Development, Introducción a la Industria|[luisquid](https://calendly.com/luisquid/indies-mentoria-consulta)|[@luisquid](https://twitter.com/luisquid)|ES/EN
 
 ## Audio latam
 Si estás interesado en el sector de producción y creación de audio para videojuegos, te recomendamos la comunidad de [Audio latam.](http://gameaudiolatam.org)
 
 ## Devz Community
-[Indi-es](https://indi-es.com/) agradece la iniciativa de Devz community que inspiró la creación del sistema de mentorías del servidor. ¿Buscas avanzar tu carrera en TI no necesariamente en la industria de videojuegos?. El mejor lugar es en su [repositorio de mentorías.](https://github.com/devzcommunity/community/blob/master/MENTORSHIP.md)
+[Indi-es](https://indi-es.com/) agradece la iniciativa de [Devz community](https://devz.mx/) que inspiró la creación del sistema de mentorías del servidor. ¿Buscas avanzar tu carrera en TI no necesariamente en la industria de videojuegos?. El mejor lugar es en su [repositorio de mentorías.](https://github.com/devzcommunity/community/blob/master/MENTORSHIP.md)
