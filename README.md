@@ -27,7 +27,7 @@ Al usar los datos en esta tabla, aceptas nuestras reglas de comportamiento.
 
 ## Audio latam
 
-Si estás interesado en el sector de producción y creación de audio para videojuegos, te recomendamos la comunidad de [Audio latam.](http://gameaudiolatam.org)
+Si estás interesado en el sector de producción y creación de audio para videojuegos, te recomendamos la comunidad de [Game Audio Latam.](http://gameaudiolatam.org)
 
 ## Devz Community
 
