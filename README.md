@@ -4,7 +4,7 @@ Mentorías es una iniciativa de la comunidad que busca conectar a mentores (gent
 
 Más información acerca de las mentorías [aquí](https://es.wikipedia.org/wiki/Mentor%C3%ADa)
 
-## Reglas de comportamiento (en progreso)
+## Reglas de comportamiento
 
 - Utiliza la plataforma de contacto (Calendy) para agendar las reuniones.
 - Respeta el tiempo de los participantes, trata de traer preguntas concisas antes de iniciar tu sesión, si tienes dudas sobre que podrías preguntar o que término es el correcto, no dudes en comunicarte a través de #consejos-de-carrera.
@@ -16,7 +16,7 @@ Más información acerca de las mentorías [aquí](https://es.wikipedia.org/wiki
 
 Para proponerte como mentor(a), llena este [formulario](https://docs.google.com/forms/d/1GrudLaOhlcfiZmY-q_ENvC6bdhUSwgd72KR31ewOSU0)
 
-Al usar los datos en esta tabla, aceptas nuestroas reglas de comportamiento.
+Al usar los datos en esta tabla, aceptas nuestras reglas de comportamiento.
 
 | Nombre (pronombre) | Tema                                                                                     | Calendly                                                              | Twitter                                             | Idioma |
 | ------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------- | ------ |
