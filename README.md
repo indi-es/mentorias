@@ -23,6 +23,7 @@ Al usar los datos en esta tabla, aceptas nuestroas reglas de comportamiento.
 | Alain (El/He)      | [Programación, Datos, Publicidad de juegos móviles, Servicios](https://alainvargas.com/) | [alainplusplus](https://calendly.com/alainplusplus/mentoria-consulta) | [@alainplusplus](https://twitter.com/alainplusplus) | ES/EN  |
 | Squid              | Programación, Unity Development, Introducción a la Industria                             | [luisquid](https://calendly.com/luisquid/indies-mentoria-consulta)    | [@luisquid](https://twitter.com/luisquid)           | ES/EN  |
 | Mario (El/He)      | [Programación, Godot Development, PICO-8, Personal Web](https://ellugar.co)              | [afk-mario](https://calendly.com/afk-mario)                           | [@afk-mario](https://twitter.com/afk-mario)         | ES/EN  |
+| El_Tutsi (El/He/Him)      | [Entrevistas de Software, Planeación de proyectos, Crecimiento de carrera](https://ucamo.github.io/)              | [El_Tutsi](https://calendly.com/el_tutsi)                           | [@El_Tutsi](https://twitter.com/El_Tutsi)         | ES/EN  |
 
 ## Audio latam
 
