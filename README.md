@@ -14,7 +14,7 @@ Más información acerca de las mentorías [aquí](https://es.wikipedia.org/wiki
 
 ## Mentor(a)
 
-Para proponerte como mentor(a), llena este [formulario](https://docs.google.com/forms/d/1GrudLaOhlcfiZmY-q_ENvC6bdhUSwgd72KR31ewOSU0)
+Para proponerte como mentor(a), llena este [formulario](https://forms.gle/cZzhQCFtckopwe8r7)
 
 Al usar los datos en esta tabla, aceptas nuestras reglas de comportamiento.
 
