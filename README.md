@@ -25,7 +25,7 @@ Al usar los datos en esta tabla, aceptas nuestras reglas de comportamiento.
 | Mario (El/He)      | [Programación, Godot Development, PICO-8, Personal Web](https://ellugar.co)              | [afk-mario](https://calendly.com/afk-mario)                           | [@afk-mario](https://twitter.com/afk-mario)         | ES/EN  |
 | El_Tutsi (El/He/Him)      | [Entrevistas de Software, Planeación de proyectos, Crecimiento de carrera](https://ucamo.github.io/)              | [El_Tutsi](https://calendly.com/el_tutsi)                           | [@El_Tutsi](https://twitter.com/El_Tutsi)         | ES/EN  |
 
-## Audio latam
+## Game Audio Latam
 
 Si estás interesado en el sector de producción y creación de audio para videojuegos, te recomendamos la comunidad de [Game Audio Latam.](http://gameaudiolatam.org)
 
