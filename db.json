@@ -1,0 +1,60 @@
+[
+  {
+    "nombre": "Alain",
+    "pronombres": "El/He",
+    "idiomas": ["ES", "EN"],
+    "temas": [
+      "Programación",
+      "Datos",
+      "Publicidad de juegos móviles",
+      "Servicios"
+    ],
+    "web": "https://alainvargas.com/",
+    "calendly": "https://calendly.com/alainplusplus/mentoria-consulta",
+    "twitter": "alainplusplus"
+  },
+  {
+    "nombre": "Squid",
+    "pronombres": "",
+    "idiomas": ["ES", "EN"],
+    "temas": [
+      "Programación",
+      "Unity Development",
+      "Introducción a la Industria"
+    ],
+    "web": "",
+    "calendly": "https://calendly.com/luisquid/indies-mentoria-consulta",
+    "twitter": "luisquid"
+  },
+  {
+    "nombre": "Mario",
+    "pronombres": "El/He",
+    "idiomas": ["ES", "EN"],
+    "temas": ["Programación", "Godot Development", "PICO-8", "Personal Web"],
+    "web": "https://ellugar.co/",
+    "calendly": "https://calendly.com/afk-mario",
+    "twitter": "afk_mario"
+  },
+  {
+    "nombre": "El_Tutsi",
+    "pronombres": "El/He/Him",
+    "idiomas": ["ES", "EN"],
+    "temas": [
+      "Entrevistas de Software",
+      "Planeación de proyectos",
+      "Crecimiento de carrera"
+    ],
+    "web": "https://ucamo.github.io/",
+    "calendly": "https://calendly.com/el_tutsi",
+    "twitter": "El_Tutsi"
+  },
+  {
+    "nombre": "Ricardo Cervantes",
+    "pronombres": "",
+    "idiomas": ["ES", "EN"],
+    "temas": ["Sound Design", "Implementacion de Audio"],
+    "web": "https://ricardocermon87.wixsite.com/ricardocervantes",
+    "calendly": "https://calendly.com/fixxxer87",
+    "twitter": "Fixxxr87"
+  }
+]
