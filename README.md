@@ -1,4 +1,5 @@
-# Mentorías INDI·ES
+
+  # Mentorías INDI·ES
 
 Mentorías es una iniciativa de la comunidad que busca conectar a mentores (gente con experiencia en diferentes campos del desarrollo de videojuegos) con mentoread@s (gente que busca ganar experiencia, principalmente práctica, o sobre que camino tomar para avanzar su carrera en la industria).
 
@@ -18,18 +19,20 @@ Para proponerte como mentor(a), llena este [formulario](https://forms.gle/cZzhQC
 
 Al usar los datos en esta tabla, aceptas nuestras reglas de comportamiento.
 
-| Nombre (pronombre) | Tema                                                                                     | Calendly                                                              | Twitter                                             | Idioma |
-| ------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------- | ------ |
-| Alain (El/He)      | [Programación, Datos, Publicidad de juegos móviles, Servicios](https://alainvargas.com/) | [alainplusplus](https://calendly.com/alainplusplus/mentoria-consulta) | [@alainplusplus](https://twitter.com/alainplusplus) | ES/EN  |
-| Squid              | Programación, Unity Development, Introducción a la Industria                             | [luisquid](https://calendly.com/luisquid/indies-mentoria-consulta)    | [@luisquid](https://twitter.com/luisquid)           | ES/EN  |
-| Mario (El/He)      | [Programación, Godot Development, PICO-8, Personal Web](https://ellugar.co)              | [afk-mario](https://calendly.com/afk-mario)                           | [@afk-mario](https://twitter.com/afk-mario)         | ES/EN  |
-| El_Tutsi (El/He/Him)      | [Entrevistas de Software, Planeación de proyectos, Crecimiento de carrera](https://ucamo.github.io/)              | [El_Tutsi](https://calendly.com/el_tutsi)                           | [@El_Tutsi](https://twitter.com/El_Tutsi)         | ES/EN  |
-| Ricardo Cervantes      | [Sound Design, Implementacion de Audio](https://ricardocermon87.wixsite.com/ricardocervantes)              | [Fixxer87](https://calendly.com/fixxxer87)                           | [@Fixxxr87](https://twitter.com/Fixxxr87)         | ES/EN  |
+  | Nombre | Temas | Calendly | Twitter | Idiomas |
+| ------ | ----- | -------- | ------- | ------- |
+| Alain (El/He) | [Programación, Datos, Publicidad de juegos móviles y Servicios](https://alainvargas.com/) | [Calendly](https://calendly.com/alainplusplus/mentoria-consulta) | [@alainplusplus](https://twitter.com/alainplusplus) | ES y EN |
+| El_Tutsi (El/He/Him) | [Entrevistas de Software, Planeación de proyectos y Crecimiento de carrera](https://ucamo.github.io/) | [Calendly](https://calendly.com/el_tutsi) | [@El_Tutsi](https://twitter.com/El_Tutsi) | ES y EN |
+| Mario (El/He) | [Programación, Godot Development, PICO-8 y Personal Web](https://ellugar.co/) | [Calendly](https://calendly.com/afk-mario) | [@afk_mario](https://twitter.com/afk_mario) | ES y EN |
+| Ricardo Cervantes | [Sound Design e Implementacion de Audio](https://ricardocermon87.wixsite.com/ricardocervantes) | [Calendly](https://calendly.com/fixxxer87) | [@Fixxxr87](https://twitter.com/Fixxxr87) | ES y EN |
+| Squid | [Programación, Unity Development e Introducción a la Industria]() | [Calendly](https://calendly.com/luisquid/indies-mentoria-consulta) | [@luisquid](https://twitter.com/luisquid) | ES y EN |
 
-## Game Audio Latam
+  ## Game Audio Latam
 
 Si estás interesado en el sector de producción y creación de audio para videojuegos, te recomendamos la comunidad de [Game Audio Latam.](http://gameaudiolatam.org)
 
 ## Devz Community
 
 [INDI·ES](https://indi-es.com/) agradece la iniciativa de [Devz community](https://devz.mx/) que inspiró la creación del sistema de mentorías del servidor. ¿Buscas avanzar tu carrera en TI no necesariamente en la industria de videojuegos?. El mejor lugar es en su [repositorio de mentorías.](https://github.com/devzcommunity/community/blob/master/MENTORSHIP.md)
+
+  
